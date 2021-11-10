@@ -1,0 +1,2 @@
+Para funcionar corretamente, necessário ter o MySQL instalado.
+O script do banco está na pasta DB!
